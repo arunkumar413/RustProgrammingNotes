@@ -1,2 +1,2 @@
 # RustProgrammingNotes
-A simple  nodes made while learning rust programming
+A simple  notes made while learning rust programming
