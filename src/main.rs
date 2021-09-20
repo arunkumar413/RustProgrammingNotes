@@ -1,43 +1,4 @@
-/// # Integer types
-/// 
-/// ```
-/// 
-/// let myvar1 = 1; //   non mutable variable. By default uses i32 bit
-/// let mut myvar2 = 2; //   To make a variable mutable we use the key word mut. By default uses i32
-/// # Annotating the datatype
-/// let mut a: i8 = 3; //  8 bit mutable variable
-/// let mut b: i16 = 4; // 16 bit variable
-/// let mut c: i32 = 5; //32 bit
-/// let mut d: i64 = 6; // 64 bit variable
-/// let mut e: i128 = 7; // 128 bit variable
-/// slet mut f: isize = 8; // depends on the machine. On 32 bit machine it uses i32 and on 64 bit uses i64
-/// 
-/// ```
-///              
-/// 
-/// 
-/// 
-/// 
-/// 
-/// 
-/// 
-/// 
-/// 
-/// 
-/// 
-/// 
-/// 
-/// 
-/// 
-/// 
-/// 
-/// 
-/// 
-/// 
-/// 
-/// 
-/// 
-/// 
+
 
 fn main() {
 
